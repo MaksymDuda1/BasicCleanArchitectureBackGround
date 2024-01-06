@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/maksi/Studying/BookStore/BookStore.API/BookStore.API/BookStore.API.csproj": {}
+  },
+  "projects": {
+    "/home/maksi/Studying/BookStore/BookStore.API/BookStore.API/BookStore.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.API/BookStore.API.csproj",
+        "projectName": "BookStore.API",
+        "projectPath": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.API/BookStore.API.csproj",
+        "packagesPath": "/home/maksi/.nuget/packages/",
+        "outputPath": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/maksi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Application/BookStore.Application.csproj": {
+                "projectPath": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Application/BookStore.Application.csproj"
+              },
+              "/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/BookStore.DataAccess.csproj": {
+                "projectPath": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/BookStore.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Application/BookStore.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Application/BookStore.Application.csproj",
+        "projectName": "BookStore.Application",
+        "projectPath": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Application/BookStore.Application.csproj",
+        "packagesPath": "/home/maksi/.nuget/packages/",
+        "outputPath": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/maksi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/BookStore.Core.csproj": {
+                "projectPath": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/BookStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/BookStore.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/BookStore.Core.csproj",
+        "projectName": "BookStore.Core",
+        "projectPath": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/BookStore.Core.csproj",
+        "packagesPath": "/home/maksi/.nuget/packages/",
+        "outputPath": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/maksi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/BookStore.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/BookStore.DataAccess.csproj",
+        "projectName": "BookStore.DataAccess",
+        "projectPath": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/BookStore.DataAccess.csproj",
+        "packagesPath": "/home/maksi/.nuget/packages/",
+        "outputPath": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/maksi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/BookStore.Core.csproj": {
+                "projectPath": "/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/BookStore.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

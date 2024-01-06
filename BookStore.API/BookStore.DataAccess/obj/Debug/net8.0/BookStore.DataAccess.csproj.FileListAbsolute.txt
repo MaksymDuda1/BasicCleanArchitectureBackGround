@@ -1,0 +1,17 @@
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/bin/Debug/net8.0/BookStore.DataAccess.deps.json
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/bin/Debug/net8.0/BookStore.DataAccess.runtimeconfig.json
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/bin/Debug/net8.0/BookStore.DataAccess.dll
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/bin/Debug/net8.0/BookStore.DataAccess.pdb
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/bin/Debug/net8.0/BookStore.Core.dll
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/bin/Debug/net8.0/BookStore.Core.pdb
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/obj/Debug/net8.0/BookStore.DataAccess.csproj.AssemblyReference.cache
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/obj/Debug/net8.0/BookStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/obj/Debug/net8.0/BookStore.DataAccess.AssemblyInfoInputs.cache
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/obj/Debug/net8.0/BookStore.DataAccess.AssemblyInfo.cs
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/obj/Debug/net8.0/BookStore.DataAccess.csproj.CoreCompileInputs.cache
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/obj/Debug/net8.0/BookStore.DataAccess.csproj.CopyComplete
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/obj/Debug/net8.0/BookStore.DataAccess.dll
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/obj/Debug/net8.0/refint/BookStore.DataAccess.dll
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/obj/Debug/net8.0/BookStore.DataAccess.pdb
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/obj/Debug/net8.0/BookStore.DataAccess.genruntimeconfig.cache
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.DataAccess/obj/Debug/net8.0/ref/BookStore.DataAccess.dll

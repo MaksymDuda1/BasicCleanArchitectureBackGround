@@ -1,0 +1,14 @@
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/bin/Debug/net8.0/BookStore.Core.deps.json
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/bin/Debug/net8.0/BookStore.Core.runtimeconfig.json
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/bin/Debug/net8.0/BookStore.Core.dll
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/bin/Debug/net8.0/BookStore.Core.pdb
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/obj/Debug/net8.0/BookStore.Core.csproj.AssemblyReference.cache
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/obj/Debug/net8.0/BookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/obj/Debug/net8.0/BookStore.Core.AssemblyInfoInputs.cache
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/obj/Debug/net8.0/BookStore.Core.AssemblyInfo.cs
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/obj/Debug/net8.0/BookStore.Core.csproj.CoreCompileInputs.cache
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/obj/Debug/net8.0/BookStore.Core.dll
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/obj/Debug/net8.0/refint/BookStore.Core.dll
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/obj/Debug/net8.0/BookStore.Core.pdb
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/obj/Debug/net8.0/BookStore.Core.genruntimeconfig.cache
+/home/maksi/Studying/BookStore/BookStore.API/BookStore.Core/obj/Debug/net8.0/ref/BookStore.Core.dll
